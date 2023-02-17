@@ -193,8 +193,6 @@ def AXFR(target_domain):
                 print("Couldn't AXFR the NS {}".format(ns))
                 continue
 
-# In writing stage #
-
 
 def banner():
     banner = '''
