@@ -11,5 +11,8 @@ Requirements:
 - In order to use the module "Wordlist Enumeration", you need to add a list of subdomains to the "subdomains.txt" file thats
   created when you first run the script.
   
+To-do:
+- Finish writing the function that saves the output of each enumeration to the "anylookup_results" folder
+  
 Known Issues:
 - SE Enumeration gives duplicate results
